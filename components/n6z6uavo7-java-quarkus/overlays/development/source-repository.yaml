@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n6z6uavo7-java-quarkus-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/n6z6uavo7-java-quarkus
